@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AppFileSetting tips="サンプル設定" version="1.0">
+  <RecipeDirectory type="directory" tips="レシピファイルを置くフォルダ">C:\WORK\</RecipeDirectory>
+  <StorageBaseDirectory type="directory" tips="保存先フォルダの基点">C:\WORK\POCOTA</StorageBaseDirectory>
+  <ComPortNo type="string" tips="バーコードリーダーのCOMポート" />
+</AppFileSetting>
